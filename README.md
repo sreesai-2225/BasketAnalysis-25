@@ -90,12 +90,3 @@ To start the application, navigate to the project directory and run the followin
 streamlit run app.py
 ```
 
-### Output Screenshots
-
-<p align="center">
-<img src="Output Screenshots/Screenshot1.png" width="70%" height="70%" />
-</p>
-
-<p align="center">
-<img src="Output Screenshots/Screenshot2.png" width="70%" height="70%" />
-</p>
